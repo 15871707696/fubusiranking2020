@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc5832f2-9ccf-428f-ae6d-f59773adbd25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="e1052eff-fe37-49b0-90cc-5f315927e05e" />
+  <component name="ProjectId" id="1ioOWNlelJEdPSuPzvO4FG2J2Yj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="fubusispider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="numericalsimulation_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fubusispider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fubusispider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc5832f2-9ccf-428f-ae6d-f59773adbd25" name="Default Changelist" comment="" />
+      <created>1602570509133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602570509133</updated>
+      <workItem from="1602570525451" duration="6298000" />
+      <workItem from="1602600407446" duration="1544000" />
+      <workItem from="1602817421142" duration="3484000" />
+      <workItem from="1602828639057" duration="385000" />
+      <workItem from="1602842792142" duration="3962000" />
+      <workItem from="1602846856359" duration="425000" />
+      <workItem from="1602847332164" duration="2329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="140" key="#Inspections" timestamp="1602593192746">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="345" y="140" key="#Inspections/0.0.1504.963@0.0.1504.963" timestamp="1602593192746" />
+    <state width="1461" height="235" key="GridCell.Tab.0.bottom" timestamp="1602596267153">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="235" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1602596267153" />
+    <state width="1461" height="235" key="GridCell.Tab.0.center" timestamp="1602596267153">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="235" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1602596267153" />
+    <state width="1461" height="235" key="GridCell.Tab.0.left" timestamp="1602596267153">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="235" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1602596267153" />
+    <state width="1461" height="235" key="GridCell.Tab.0.right" timestamp="1602596267153">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="235" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1602596267153" />
+    <state x="254" y="124" key="SettingsEditor" timestamp="1602570744313">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="254" y="124" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1602570744313" />
+    <state width="759" height="488" key="XDebugger.FullValuePopup" timestamp="1602849486501">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="759" height="488" key="XDebugger.FullValuePopup/0.0.1504.963@0.0.1504.963" timestamp="1602849486501" />
+    <state x="415" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1602847332145">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="415" y="306" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1602847332145" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/numericalsimulation_python$fubusispider.coverage" NAME="fubusispider Coverage Results" MODIFIED="1602593456222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
